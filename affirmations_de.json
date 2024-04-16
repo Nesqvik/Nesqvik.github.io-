@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "message": "Ich bin genug."
+  },
+  {
+    "id": "2",
+    "message": "Ich akzeptiere meine Grenzen."
+  },
+  {
+    "id": "3",
+    "message": "Ich bin vollkommen."
+  },
+  {
+    "id": "4",
+    "message": "Ich bin nett zu mir."
+  },
+  {
+    "id": "5",
+    "message": "Ich verdiene es, glücklich zu sein."
+  },
+  {
+    "id": "6",
+    "message": "Ich bin in der Lage, meine Ziele zu erreichen."
+  },
+  {
+    "id": "7",
+    "message": "Ich glaube an mich."
+  },
+  {
+    "id": "8",
+    "message": "Ich vertraue mir."
+  },
+  {
+    "id": "9",
+    "message": "Ich darf nein sagen."
+  },
+  {
+    "id": "10",
+    "message": "Ich bin erfüllt."
+  },
+  {
+    "id": "11",
+    "message": "Ich lasse negative Dinge los."
+  },
+  {
+    "id": "12",
+    "message": "Ich darf Fehler machen."
+  },
+  {
+    "id": "13",
+    "message": "Ich verdiene es, geliebt zu werden."
+  },
+  {
+    "id": "14",
+    "message": "Ich gebe mir die Erlaubnis zutun, was richtig für mich ist."
+  },
+  {
+    "id": "15",
+    "message": "Ich höre auf meine Intuition."
+  },
+  {
+    "id": "16",
+    "message": "Ich bin offen für ein neues Leben und genieße jeden Tag."
+  },
+  {
+    "id": "17",
+    "message": "Ich bin dankbar dafür Menschen in meinem Leben zu haben, die mich wertschätzen."
+  },
+  {
+    "id": "18",
+    "message": "Ich lerne jeden Tag von mir selbst."
+  },
+  {
+    "id": "19",
+    "message": "Dankbar entdecke ich jeden Tag, wie wundervoll ich bin."
+  },
+  {
+    "id": "20",
+    "message": "Ich brauche niemanden, um mich geliebt zu fühlen."
+  },
+  {
+    "id": "21",
+    "message": "Ich verurteile mich nicht."
+  },
+  {
+    "id": "22",
+    "message": "Ich bin stark und selbstbewusst."
+  },
+  {
+    "id": "23",
+    "message": "Heute wird ein guter Tag."
+  },
+  {
+    "id": "24",
+    "message": "Mein Körper ist mein bester Freund."
+  },
+  {
+    "id": "25",
+    "message": "Ich bin zuständig für meinen eigenen Erfolg."
+  },
+  {
+    "id": "26",
+    "message": "Ich vertraue den Signalen meines Körpers."
+  },
+  {
+    "id": "27",
+    "message": "Ich nehme mir die Zeit, um mich um meinen Körper zu kümmern."
+  },
+  {
+    "id": "28",
+    "message": "Mit jeder Handlung komme ich meinem Traumjob näher."
+  },
+  {
+    "id": "29",
+    "message": "Meine mentale und körperliche Gesundheit hat Priorität."
+  },
+  {
+    "id": "30",
+    "message": "Ich bin erfolgreich in allem, was ich mache."
+  },
+  {
+    "id": "31",
+    "message": "Dankbar entdecke ich jeden Tag, wie wundervoll ich bin."
+  },
+  {
+    "id": "32",
+    "message": "Heute ist mein Leben reich an Wundern."
+  },
+  {
+    "id": "33",
+    "message": "Heute finde ich in mir die Kraft für positive Veränderungen."
+  },
+  {
+    "id": "34",
+    "message": "Voller Vertrauen und Freude blicke ich in die Zukunft."
+  },
+  {
+    "id": "35",
+    "message": "Ich habe die Freiheit, neue Entscheidungen zu treffen und mein Leben zu ändern."
+  },
+  {
+    "id": "36",
+    "message": "Ich bin offen für ein neues Leben und genieße jeden Tag."
+  },
+  {
+    "id": "37",
+    "message": "Alles was ich brauche, ist bereits in mir."
+  },
+  {
+    "id": "38",
+    "message": "Ich lasse alte Grenzen hinter mir und nutze meine volle Kraft."
+  },
+  {
+    "id": "39",
+    "message": "Entschlossen folge ich meiner Vision und befreie das gigantische Potenzial, das in mir steckt."
+  },
+  {
+    "id": "40",
+    "message": "Ich fühle mich fit und vital."
+  },
+  {
+    "id": "41",
+    "message": "Ich liebe mich mit allen meinen Fehlern und Schwächen."
+  },
+  {
+    "id": "42",
+    "message": "Ich kann mir und anderen verzeihen."
+  },
+  {
+    "id": "43",
+    "message": "Ich akzeptiere mich, so wie ich bin."
+  },
+  {
+    "id": "44",
+    "message": "Ich glaube an mich und meine Fähigkeiten."
+  },
+  {
+    "id": "45",
+    "message": "Misserfolge helfen mir besser zu werden."
+  },
+  {
+    "id": "46",
+    "message": "Morgen ist ein neuer Tag, mit neuen Chancen."
+  },
+  {
+    "id": "47",
+    "message": "Ich verdiene Menschen in meinem Leben, die mich lieben."
+  },
+  {
+    "id": "48",
+    "message": "Ich bin bereit, mein Leben zu ändern."
+  },
+  {
+    "id": "49",
+    "message": "Meine Zukunft wird, wie ich sie mir erträume."
+  },
+  {
+    "id": "50",
+    "message": "Ich achte auf mich und meine Gesundheit."
+  },
+  {
+    "id": "51",
+    "message": "Ich höre auf meinen Körper."
+  },
+  {
+    "id": "52",
+    "message": "Mit jedem Atemzug befreit sich mein Körper von Negativem."
+  },
+  {
+    "id": "53",
+    "message": "Mein Blut regeneriert sich immer besser."
+  },
+  {
+    "id": "54",
+    "message": "Meine Knochen sind hart und stabil."
+  },
+  {
+    "id": "55",
+    "message": "Mein Haar ist schön und prachtvoll."
+  },
+  {
+    "id": "56",
+    "message": "Ich achte auf gesunde und frische Luft."
+  },
+  {
+    "id": "57",
+    "message": "Ich setze meine Vorhaben konsequent in die Tat um."
+  },
+  {
+    "id": "58",
+    "message": "Mit Disziplin und Fleiß erreiche ich alle meine Ziele."
+  },
+  {
+    "id": "59",
+    "message": "Ich bin motiviert und diszipliniert."
+  },
+  {
+    "id": "60",
+    "message": "Ich arbeite kontinuierlich an mir selbst und meinen Zielen."
+  },
+  {
+    "id": "61",
+    "message": "Ich liebe und akzeptiere mich, so wie ich bin."
+  },
+  {
+    "id": "62",
+    "message": "Ich mache nur das, was ich möchte."
+  },
+  {
+    "id": "63",
+    "message": "Meine Zeit ist kostbar."
+  },
+  {
+    "id": "64",
+    "message": "Ich nehme mir Zeit für mich selbst."
+  },
+  {
+    "id": "65",
+    "message": "Ich stehe für mich ein."
+  },
+  {
+    "id": "66",
+    "message": "Meine Meinung zählt."
+  },
+  {
+    "id": "67",
+    "message": "Ich bin wichtig."
+  },
+  {
+    "id": "68",
+    "message": "Liebe und Harmonie erfüllen mein Leben."
+  },
+  {
+    "id": "69",
+    "message": "Ich bin umgeben von positiven Menschen."
+  },
+  {
+    "id": "70",
+    "message": "Ich werde geliebt."
+  },
+  {
+    "id": "71",
+    "message": "Ich bin sympathisch."
+  },
+  {
+    "id": "72",
+    "message": "Ich habe Charisma."
+  },
+  {
+    "id": "73",
+    "message": "Ich bin eine interessante Person."
+  },
+  {
+    "id": "74",
+    "message": "Was mögen die Menschen an mir?"
+  },
+  {
+    "id": "75",
+    "message": "Ich bin ein sehr guter Zuhörer."
+  },
+  {
+    "id": "76",
+    "message": "Ich habe eine positive Ausstrahlung."
+  },
+  {
+    "id": "77",
+    "message": "Ich bin schön."
+  },
+  {
+    "id": "78",
+    "message": "In mir sprudelt eine unendliche Quelle der Liebe."
+  },
+  {
+    "id": "79",
+    "message": "Ich fühle mit."
+  },
+  {
+    "id": "80",
+    "message": "Ich darf ich sein."
+  },
+  {
+    "id": "81",
+    "message": "Sport tut mir gut."
+  },
+  {
+    "id": "82",
+    "message": "Ich erlaube mir, für meine Bedürfnisse einzustehen."
+  },
+  {
+    "id": "83",
+    "message": "Mein innerer Coach wird immer stärker."
+  },
+  {
+    "id": "84",
+    "message": "Ich verzeihe mir selbst."
+  },
+  {
+    "id": "85",
+    "message": "Ich erlaube mir loszulassen."
+  },
+  {
+    "id": "86",
+    "message": "Ich kann meine Gefühle beherrschen."
+  },
+  {
+    "id": "87",
+    "message": "Ich verabschiede alles, was überflüssig geworden ist."
+  },
+  {
+    "id": "88",
+    "message": "Ich denke stets positiv und förderlich."
+  },
+  {
+    "id": "89",
+    "message": "Ich mache aus jedem Tag einen schönen Tag."
+  },
+  {
+    "id": "90",
+    "message": "Ich bin glücklich."
+  },
+  {
+    "id": "91",
+    "message": "Ich bekomme immer genau das, was ich gerade brauche."
+  },
+  {
+    "id": "92",
+    "message": "Alles was ich wirklich will, kann ich erreichen."
+  },
+  {
+    "id": "93",
+    "message": "Ich schaffe das."
+  },
+  {
+    "id": "94",
+    "message": "Alles was ich wirklich will, kann ich erreichen."
+  },
+  {
+    "id": "95",
+    "message": "Ich vertraue auf meine Intuition."
+  },
+  {
+    "id": "96",
+    "message": "Die Verbindung zu meinem Unterbewusstsein wird immer besser und intensiver."
+  },
+  {
+    "id": "97",
+    "message": "Ich erinnere mich immer besser und ausführlicher an meine Träume."
+  },
+  {
+    "id": "98",
+    "message": "Was habe ich letzte Nacht geträumt?"
+  },
+  {
+    "id": "99",
+    "message": "Meine Träume sind mir wichtig."
+  },
+  {
+    "id": "100",
+    "message": "Während ich träume, wird mir bewusst, dass ich träume."
+  },
+  {
+    "id": "101",
+    "message": "Ich habe immer öfter luzide Träume."
+  },
+  {
+    "id": "102",
+    "message": "Voller Vorfreude lenke ich meine Gedanken täglich in eine glückliche und erfolgreiche Zukunft."
+  },
+  {
+    "id": "103",
+    "message": "Mithilfe meiner Affirmationen erreiche ich meine Ziele extrem schnell."
+  },
+  {
+    "id": "104",
+    "message": "Meine Affirmationen sind immer wirksamer und effektiver."
+  },
+  {
+    "id": "105",
+    "message": "Meine Affirmationen helfen mir, noch erfolgreicher zu sein."
+  }
+]
